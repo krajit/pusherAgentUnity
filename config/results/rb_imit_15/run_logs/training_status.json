@@ -1,0 +1,65 @@
+{
+    "SphereAgentBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 3499952,
+                "file_path": "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-3499952.onnx",
+                "reward": 1.0,
+                "creation_time": 1713621857.6538434,
+                "auxillary_file_paths": [
+                    "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-3499952.pt"
+                ]
+            },
+            {
+                "steps": 3999974,
+                "file_path": "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-3999974.onnx",
+                "reward": 1.0,
+                "creation_time": 1713622892.5246725,
+                "auxillary_file_paths": [
+                    "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-3999974.pt"
+                ]
+            },
+            {
+                "steps": 4499953,
+                "file_path": "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-4499953.onnx",
+                "reward": 1.0,
+                "creation_time": 1713623925.0320702,
+                "auxillary_file_paths": [
+                    "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-4499953.pt"
+                ]
+            },
+            {
+                "steps": 4999902,
+                "file_path": "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-4999902.onnx",
+                "reward": 1.0,
+                "creation_time": 1713624962.1397321,
+                "auxillary_file_paths": [
+                    "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-4999902.pt"
+                ]
+            },
+            {
+                "steps": 5000081,
+                "file_path": "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-5000081.onnx",
+                "reward": 1.0,
+                "creation_time": 1713624962.2917085,
+                "auxillary_file_paths": [
+                    "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-5000081.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000081,
+            "file_path": "results\\rb_imit_15\\SphereAgentBehaviour.onnx",
+            "reward": 1.0,
+            "creation_time": 1713624962.2917085,
+            "auxillary_file_paths": [
+                "results\\rb_imit_15\\SphereAgentBehaviour\\SphereAgentBehaviour-5000081.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.1+cu121"
+    }
+}
